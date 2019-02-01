@@ -1,8 +1,17 @@
 # Multi-Room-Chat-Server
+
 Using Node.js and Socket.IO, I and DK Kim created a multi-room chat server which enables users to create rooms and chat.
 
-## Authors: Donggyu Kim, Hong Wi
-## Behaviors:
+## Authors 
+
+Donggyu Kim, Hong Wi
+
+## What we learned
+
+- How to create an application using Node.JS and Socket.IO
+- Use of anonymous functions as callbacks for processing the results of intensive operations
+
+## Behaviors
 - Below big, bold "Chat Rooms", there is a list of available rooms you can join.
 - You can see your username under "Your Username :"
 - You can see your current room under "Your room :"
